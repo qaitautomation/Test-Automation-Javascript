@@ -21,11 +21,14 @@ using npm install command in your command prompt (For ubuntu users apply sudo)
  
  Once you're done with all of the above, there are two ways to start the test:
  a)
- 1. Visit test folder in gmailAutomate after running the server
+ 1. Visit test/GmailAction folder in gmailAutomate after running the server
  2. Open another terminal or Comand prompt at the same location or reach there and write: mocha action.js
  
 b)
 1. Run the server
+
+
+
 2. Open another terminal or Comand prompt at gmailautomate location and type : grunt development --force
 
 
